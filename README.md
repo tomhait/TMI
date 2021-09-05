@@ -45,4 +45,4 @@ MAIN_enrichment_analysis.R | Performs GO enrichment analyses on predicted cell t
 
 Please note that the generated code is a line by line running code.
 
-Additional instructions: sthait at gmail dot com
+Additional instructions: sthait at gmail dot com; amitlevon at gmail dot com
